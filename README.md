@@ -1,4 +1,4 @@
-These datasets and concept were collected and created by [Libby Wu](https://www.linkedin.com/in/libbywu/), as part of a project for 2023 English Course, [City Fictions](https://english.fas.harvard.edu/english-184cf-city-fictions-0), taught by [Tara Menon](https://www.tarakmenon.com/). 
+These datasets and concept were collected and created by [Libby Wu](https://www.linkedin.com/in/libbywu/), as part of a project for 2023 English course, [City Fictions](https://english.fas.harvard.edu/english-184cf-city-fictions-0), taught by [Tara Menon](https://www.tarakmenon.com/). 
 
 There is an assignment in the course where students are tasked with creating two distinct maps which each give a different impression of a place, as a complement to their work engaging with how place is represented in literature.
 
