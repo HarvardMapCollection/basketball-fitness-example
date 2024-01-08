@@ -12,6 +12,6 @@ Libby created the [NYC workout class dataset](https://github.com/HarvardMapColle
 
 Libby downloaded the [basketball courts](https://github.com/HarvardMapCollection/basketball-fitness-example/blob/main/nyc-basketball-courts.geojson) from [NYC Open Data](https://opendata.cityofnewyork.us/), augmenting the city published file with a bit with of her own research of notable/historical courts. 
 
-The subway lines comes from [NYC Open Data](https://opendata.cityofnewyork.us/), and the income demographic data is via the [Opportunity Atlas](https://www.opportunityatlas.org/). 
+The subway lines come from [NYC Open Data](https://opendata.cityofnewyork.us/), and the income demographic data is via the [Opportunity Atlas](https://www.opportunityatlas.org/). 
 
 
