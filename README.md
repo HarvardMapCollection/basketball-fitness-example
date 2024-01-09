@@ -10,7 +10,7 @@ In this repository, you will find the point datasets Libby created for her proje
 
 Libby created the [NYC workout class dataset](https://github.com/HarvardMapCollection/basketball-fitness-example/blob/main/nyc-fitness-classes.geojson) manually, using the many different types of studios (boxing, cycling, pilates, yoga, etc) listed via a [ClassPass](https://classpass.com/) subscription.
 
-Libby downloaded the [basketball courts](https://github.com/HarvardMapCollection/basketball-fitness-example/blob/main/nyc-basketball-courts.geojson) from [nycgovparks.org](https://www.nycgovparks.org/facilities/basketball), augmenting the city published file with a bit of her own research of notable/historical courts. 
+Libby downloaded the [basketball courts](https://github.com/HarvardMapCollection/basketball-fitness-example/blob/main/nyc-basketball-courts.geojson) from [nycgovparks.org](https://www.nycgovparks.org/facilities/basketball), augmenting the city published file with a bit of her own research on notable/historical courts. 
 
 The subway lines come from [NYC Open Data](https://opendata.cityofnewyork.us/), and the income demographic data is via the [Opportunity Atlas](https://www.opportunityatlas.org/). 
 
